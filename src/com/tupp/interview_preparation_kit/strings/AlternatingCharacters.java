@@ -6,6 +6,7 @@ import java.util.*;
 /**
  * Created by Tu Pham Phuong - phamptu@gmail.com on 11/14/19.
  */
+// https://www.hackerrank.com/challenges/alternating-characters/problem
 public class AlternatingCharacters {
 
     private static final Scanner scanner = new Scanner(System.in);
